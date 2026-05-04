@@ -1,18 +1,25 @@
-# React + Vite
+🔢 React + Vite: Contador Simples
+Este é um projeto fundamental desenvolvido para praticar os conceitos básicos de Estado (State) no React. O objetivo foi criar um contador interativo onde o usuário pode incrementar e decrementar valores em tempo real.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Para Abrir o Projeto Clique aki:
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/fa359fa8-765e-4561-a086-5ba7ce63ecd3" />
 
-## React Compiler
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
 
-Note: This will impact Vite dev & build performances.
+🚀 Tecnologias Utilizadas
+React: Biblioteca Javascript para construção de interfaces.
 
-## Expanding the ESLint configuration
+Vite: Ferramenta de build ultra-rápida para o ecossistema frontend.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+CSS3: Estilização da interface.
+
+🧠 O que eu aprendi?
+O foco principal deste projeto foi entender o funcionamento do hook useState. Através dele, pude compreender:
+
+Imutabilidade: Como o React gerencia as mudanças de dados sem alterar o estado original diretamente.
+
+Re-renderização: O comportamento do componente de se atualizar visualmente sempre que o estado sofre uma alteração.
+
+Event Handling: Como capturar cliques do usuário e disparar funções de atualização.
